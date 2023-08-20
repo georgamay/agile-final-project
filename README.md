@@ -1,1 +1,1 @@
-# e-commerce_project
+# agile-final-project
